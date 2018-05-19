@@ -1,0 +1,20 @@
+﻿  Game.cpp
+c:\users\hieu\source\repos\pong\pong\game.cpp(55): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(116): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(119): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(122): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(125): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(149): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(155): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(165): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(252): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(257): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(265): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(303): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(304): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(312): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(313): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(335): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hieu\source\repos\pong\pong\game.cpp(362): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Pong.vcxproj -> C:\Users\Hieu\source\repos\Pong\Debug\Pong.exe
